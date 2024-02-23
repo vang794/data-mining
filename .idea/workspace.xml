@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fe77739-a557-44f9-8311-509a18b76b9f" name="Changes" comment="Added additional notes and citations">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vector.py" beforeDir="false" afterPath="$PROJECT_DIR$/Vector.py" afterDir="false" />
-    </list>
+    <list default="true" id="8fe77739-a557-44f9-8311-509a18b76b9f" name="Changes" comment="More edits and additional notes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,13 +69,22 @@
       <option name="project" value="LOCAL" />
       <updated>1708660980677</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="More edits and additional notes">
+      <option name="closed" value="true" />
+      <created>1708661827957</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708661827957</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created classes" />
     <MESSAGE value="Added additional notes and citations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added additional notes and citations" />
+    <MESSAGE value="More edits and additional notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="More edits and additional notes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

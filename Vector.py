@@ -14,7 +14,7 @@ class Binvector:
     #If the value does not exist, then the corresponding index value is not set to 1.
     def population(self,shingle):
         for item in shingle:
-            index = item
+            index = int(item)
             self.vect[index] = 1
     #Jaccard sim methods
 
