@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fe77739-a557-44f9-8311-509a18b76b9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DataMiningProj1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minhashing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shingle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vector.py" afterDir="false" />
-    </list>
+    <list default="true" id="8fe77739-a557-44f9-8311-509a18b76b9f" name="Changes" comment="Created classes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +52,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708660027608</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created classes">
+      <option name="closed" value="true" />
+      <created>1708660623042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708660623042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created classes" />
   </component>
 </project>

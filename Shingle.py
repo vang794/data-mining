@@ -3,6 +3,7 @@
 #Project 1
 #2/22/2024
 
+#Citation: createTuples method logic from https://www.youtube.com/watch?v=e_SBq3s20M8&t=841s
 #A k-Shingle object.
 #K and the document(doc) are initialized.
 class Shingle:
