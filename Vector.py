@@ -8,10 +8,13 @@
 class Binvector:
     def __init__(self):
         self.vect=[0] * 1000
-
-    def population(self,doc):
-        for item in doc:
-            index = int(item)
+    #population method is given a set of shingles
+    #Method takes the values from the set and uses the values as indexes.
+    #Method sets the value "1" to self.vect list by the given indexes.
+    #If the value does not exist, then the corresponding index value is not set to 1.
+    def population(self,shingle):
+        for item in shingle:
+            index = item
             self.vect[index] = 1
     #Jaccard sim methods
 
@@ -40,6 +43,7 @@ class Binvector:
     #Uses intersect and union methods
     #Calculates the Jaccard Simularity value
     #Returns numeric value
+    #Citation for logic and code: https://www.geeksforgeeks.org/how-to-calculate-jaccard-similarity-in-python/
     def sim(self,vect2):
         num=self.intersect(vect2)
         den=self.union(vect2)
