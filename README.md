@@ -3,6 +3,8 @@ Carolyn Vang
 Introduction to Data Mining
 2/22/2024
 
+Open Minhashing.py, Shingle.py, Vector.py, and Driver.py
+Run Driver.py for answers
 
 Answers:
 1)
