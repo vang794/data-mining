@@ -3,11 +3,6 @@ Carolyn Vang
 Introduction to Data Mining
 2/22/2024
 
-Pycharm used
-
-1)Download Pycharm from https://www.jetbrains.com/pycharm/
-2) git>clone>https://github.com/vang794/data-mining
-3) Go to Driver class and run class
 
 Answers:
 1)
